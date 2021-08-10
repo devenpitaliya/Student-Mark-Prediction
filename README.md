@@ -12,6 +12,17 @@ $ pip install -r requirements.txt
 ```
 all the required library automatically will get installed.
 
+# run the web app
+
+There is a file in repo name - abcd.py
+
+run this file
+type command 
+```python
+
+$ python abcd.py
+```
+
 
 
 
