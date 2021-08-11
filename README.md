@@ -23,6 +23,9 @@ type command
 $ python abcd.py
 ```
 
+## output
+ 
+![Screenshot](https://github.com/devenpitaliya/Student-Mark-Prediction/blob/main/10.05.2021_19.25.23_REC.gif)
 
 
 
